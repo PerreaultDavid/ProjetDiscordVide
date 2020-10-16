@@ -1,0 +1,5 @@
+{
+  "token": "ENTER-TOKEN-HERE",
+  "prefix": "CHOOSE-ONE",
+  "connection": "ENTER-STRING-FOR-MONGODB-CONNECTION-HERE"
+}
